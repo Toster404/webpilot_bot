@@ -1,2 +1,2 @@
-# webpilot_bot
+# WebPilot Bot
 Небольшой бот под API Webpilot
